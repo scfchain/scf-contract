@@ -1,0 +1,9 @@
+{
+  "name": "scf-contracts",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3"
+  }
+}
